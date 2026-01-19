@@ -17,3 +17,16 @@ public class chess {
         System.out.println("Pass: " + pass);
     }
 }
+/* 
+Problem:
+Make the corrections and addtions to make the following code work
+
+
+Side s1 = Side.Black;
+
+Side s2 = Side.WHITE;
+
+PieceType horsey = PieceType.KNIGHT;
+
+if(s2 == s1.opposite()) pass++;
+ */
